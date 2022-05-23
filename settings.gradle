@@ -1,0 +1,2 @@
+rootProject.name = "Paging3RemoteMediator"
+include ':app'
